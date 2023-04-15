@@ -1,5 +1,0 @@
-SELECT TOP 1 dp.[ID] AS [Id]
-FROM [DEPARTMENT] as dp JOIN EMPLOYEE AS emp
-ON dp.[ID] = emp.[ID]
-GROUP BY dp.[ID]
-ORDER BY sum(emp.[SALARY]) DESC
