@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TrainingTaskDigitalDesign/1.0.0": {
+        "runtime": {
+          "TrainingTaskDigitalDesign.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainingTaskDigitalDesign/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
